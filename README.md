@@ -1,15 +1,17 @@
 # StringBox
 
-**StringBox** is a high-performance, safe string library written entirely in x86/x64 assembly for C++. It provides core string functionality while demonstrating advanced low-level programming skills, memory management, and optimization techniques.
+**StringBox** is a small, safe string library written entirely in x86/x64 assembly for C++.  
 
-## Key Features
-- Efficient string creation, deletion, and concatenation
-- Substring extraction and comparison
+It provides the core features of a string class while keeping memory handling explicit and lightweight. This is a hands-on way to explore low-level programming, assembly, and the inner workings of strings in C++.
+
+## Features
+- String creation and deletion
+- Concatenation
+- Substrings
+- Comparison
 - Length calculation
-- Minimal memory overhead
-- Safe alternative to raw C-style strings
 
-## Example Usage
+## Example
 ```cpp
 #include "StringBox.h"
 
