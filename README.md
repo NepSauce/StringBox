@@ -9,12 +9,6 @@
 - Minimal memory overhead
 - Safe alternative to raw C-style strings
 
-## Why This Project Matters
-- Showcases expertise in **assembly language** and **low-level optimization**
-- Demonstrates ability to implement **core data structures from scratch**
-- Highlights understanding of **memory management, pointers, and CPU-level operations**
-- Ideal for recruiters looking for **systems-level C++ developers**
-
 ## Example Usage
 ```cpp
 #include "StringBox.h"
